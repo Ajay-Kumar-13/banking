@@ -29,7 +29,7 @@ public class sendEmail
 			@Override
 			protected PasswordAuthentication getPasswordAuthentication()
 			{
-				return new PasswordAuthentication("bdummy44@gmail.com","dummypassword123");
+				return new PasswordAuthentication("bdummy44@gmail.com","");
 			}
 		});
 		
